@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Android_hw1</string>
+    <string name="very_good_text">Very good text!</string>
+    <string name="button_text">Nice button</string>
+    <string name="box_text">Highly convenient box</string>
+    <string name="checkbox_text">Like!</string>
+    <string name="enter_your_text">enter your text</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="number_of_tickets">number of tickets</string>
+    <string name="enter_your_e_mail_address">enter your e-mail address</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="please_fill_in_the_form">Please, fill in the form</string>
 </resources>
